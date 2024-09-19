@@ -16,7 +16,8 @@ environmental conditions.
 
 [![CARLA Video](Docs/img/0_9_15_thumbnail.webp)](https://www.youtube.com/watch?v=q4V9GYjA1pE )
 
-### Download CARLA
+### Download CARLA  
+
 
 Linux:
 * [**Get CARLA overnight build**](https://tiny.carla.org/carla-latest-linux)
